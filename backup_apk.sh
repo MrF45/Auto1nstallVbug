@@ -1,10 +1,7 @@
-# recode
-# usage bash backup_apk.sh -pkg <package name> <destination>
-# https://github.com/Hendriyawan/backup_apk
-# look com. in /storage/sdcard0/Android/data/
+# Backup Apk
+# ©2018
+# F45
 
-# example :
-# bash backup_apk.sh -pkg com.lexa.fakegps
 echo "#######################################"
 echo "# ________ ___   ___  ________        #"
 echo "# |\  _____\\  \ |\  \|\   ____\      #"
@@ -13,9 +10,8 @@ echo "#  \ \   __\\ \______  \ \_____  \    #"
 echo "#   \ \  \_| \|_____|\  \|____|\  \   #"
 echo "#    \ \__\         \ \__\____\_\  \  #"
 echo "#     \|__|          \|__|\_________\ #"
-echo "#                        \|_________| #"
+echo "#[ + ] Author : F45      \|_________| #"
 echo "#######################################"
-
 
 
 # -- COLOR --
