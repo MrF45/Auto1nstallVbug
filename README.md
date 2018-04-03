@@ -1,5 +1,5 @@
 #BackupApk
-#!/system/bin/sh
+#.sh
 #F45
 #Un-root
 #©2018
@@ -11,5 +11,5 @@
 # to look com. in /storage/sdcard0/Android/data/
 
 # example :
-# sh backup_apk.sh -pkg com.lexa.fakegps
-# sh backup_apk.sh --get-pkg
+# bash backup_apk.sh -pkg com.lexa.fakegps
+# bash backup_apk.sh --get-pkg
