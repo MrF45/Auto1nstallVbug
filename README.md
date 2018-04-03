@@ -1,14 +1,15 @@
 #BackupApk
 #!/system/bin/sh
 #F45
-#Without-root
+#Un-root
 #©2018
 
 
 
-# usage sh backup_apk.sh -pkg <package name> <destination>
-# usage sh backup_apk.sh --get-pkg  : for get list of package names
+# usage bash backup_apk.sh -pkg <package name> <destination>
+# usage bash backup_apk.sh --get-pkg  : for get list of package names
+# to look com. in /storage/sdcard0/Android/data/
 
 # example :
-# sh backup_apk.sh -pkg com.whatsapp /download
+# sh backup_apk.sh -pkg com.lexa.fakegps
 # sh backup_apk.sh --get-pkg
