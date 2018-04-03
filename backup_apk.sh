@@ -1,5 +1,11 @@
-#©2018
-#F45
+
+# usage bash backup_apk.sh -pkg <package name> <destination>
+
+# look com. in /storage/sdcard0/Android/data/
+
+# example :
+# bash backup_apk.sh -pkg com.lexa.fakegps
+
 
 
 # -- COLOR --
