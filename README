@@ -1,6 +1,6 @@
-# usage bash backup_apk.sh -pkg <package name> <destination>
+# usage bash backup_app.sh -pkg <package name> <destination>
 # ©2018 F45
-# look com. in /storage/sdcard0/Android/data/
+# /storage/sdcard0/Android/data/
 
 # example :
-# bash backup_apk.sh -pkg com.lexa.fakegps
+# bash backup_app.sh -pkg com.whatsapp
