@@ -1,10 +1,20 @@
-#save
+# recode
 # usage bash backup_apk.sh -pkg <package name> <destination>
 # https://github.com/Hendriyawan/backup_apk
 # look com. in /storage/sdcard0/Android/data/
 
 # example :
 # bash backup_apk.sh -pkg com.lexa.fakegps
+echo "#######################################"
+echo "# ________ ___   ___  ________        #"
+echo "# |\  _____\\  \ |\  \|\   ____\      #"
+echo "# \ \  \__/\ \  \\_\  \ \  \___|_     #"
+echo "#  \ \   __\\ \______  \ \_____  \    #"
+echo "#   \ \  \_| \|_____|\  \|____|\  \   #"
+echo "#    \ \__\         \ \__\____\_\  \  #"
+echo "#     \|__|          \|__|\_________\ #"
+echo "#                        \|_________| #"
+echo "#######################################"
 
 
 
