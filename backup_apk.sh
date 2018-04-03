@@ -1,6 +1,6 @@
-
+#save
 # usage bash backup_apk.sh -pkg <package name> <destination>
-
+# https://github.com/Hendriyawan/backup_apk
 # look com. in /storage/sdcard0/Android/data/
 
 # example :
