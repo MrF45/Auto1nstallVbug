@@ -87,3 +87,4 @@ elif [ $options == "-pkg" ]; then
         Err "usage sh backup_app.sh -pkg <package name> <destination> !\n"
         exit 1
     fi
+  fi
