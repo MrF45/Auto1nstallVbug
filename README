@@ -3,4 +3,4 @@
 # /storage/sdcard0/Android/data/
 
 # example :
-# bash backup_app.sh -pkg com.whatsapp
+# bash backup_app.sh -pkg com.whatsapp /storage/sdcard0
